@@ -1,0 +1,7 @@
+﻿  color.cpp
+  ray.cpp
+  Raytracer.cpp
+D:\Training\SimpleRaytracer\Raytracer\Raytracer.cpp(52,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  vec3.cpp
+  Generating Code...
+  Raytracer.vcxproj -> D:\Training\SimpleRaytracer\Raytracer\x64\Debug\Raytracer.exe

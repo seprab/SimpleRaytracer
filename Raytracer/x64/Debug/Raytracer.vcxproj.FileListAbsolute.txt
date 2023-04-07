@@ -1,0 +1,1 @@
+D:\Training\SimpleRaytracer\Raytracer\x64\Debug\Raytracer.exe
